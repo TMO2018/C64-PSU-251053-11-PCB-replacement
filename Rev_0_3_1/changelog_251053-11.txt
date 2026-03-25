@@ -1,0 +1,19 @@
+Rev. 0.4.1 -> aktuell
+- Layout geändert in Bezug auf die Filter C5,C6,C7 und C2,L1,C3
+
+Rev. 0.4.x
+- Einsatz eines Murata OKX-T/3-D12N-C
+
+Rev. 0.3.1 -> aktuell
+- Positionen C6 und U1 korrigiert
+
+Rev. 0.3
+- C5,C6,C7 eingefügt für den Einsatz eines Murata OKR-T/3-W12 Reglers (bei Traco TSR3-1250 werden C5,C6,C7 nicht benötigt)
+
+Rev. 0.2.1
+- Leiterbahnen optimiert
+- Rückseitige Bedruckung entfernt
+- Footprints der Kondensatoren ausgetauscht, wg. zu kleiner Lötpads
+- Bohrung der Induktivität verkleinert
+
+
