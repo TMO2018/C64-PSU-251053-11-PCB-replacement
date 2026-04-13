@@ -1,7 +1,7 @@
 # C64 PSU 251053-11 PCB replacement
 PCB replacement for the Commodore PSU 251053-11
 
-![s-l1600](https://github.com/user-attachments/assets/53f18496-eb22-40ea-b480-53e04a98d68d)
+![s-l1600 Kopie](https://github.com/user-attachments/assets/cd4d92c5-be8e-47e0-bb66-d5acce824b72)
 
 (Rev 0.1 - 0.2.1 for Traco TSR 3-1250)
 
