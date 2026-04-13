@@ -16,4 +16,5 @@ Rev. 0.2.1
 - Footprints der Kondensatoren ausgetauscht, wg. zu kleiner Lötpads
 - Bohrung der Induktivität verkleinert
 
-
+Rev 0.1
+- Initial release für Traco TSR3-1250 Regler
